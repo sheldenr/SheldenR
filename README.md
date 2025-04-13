@@ -2,5 +2,4 @@
 🌱 I’m currently learning data structures <br><br>
 I code sometimes <br><br>
 
-![](https://raw.githubusercontent.com/sheldenr/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sheldenr/githubstats/master/generated/overview.svg#gh-light-mode-only) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
